@@ -22,7 +22,6 @@ div.cls_007{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight
 <body>
 <div style="position:absolute;left:50%;margin-left:-297px;top:0px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
-<img src="c26f36b4-20d0-11eb-8b25-0cc47a792c0a_id_c26f36b4-20d0-11eb-8b25-0cc47a792c0a_files/background1.jpg" width=595 height=842></div>
 <div style="position:absolute;left:79.72px;top:52.71px" class="cls_002"><span class="cls_002">上機測驗</span><span class="cls_003">-PHP</span></div>
 <div style="position:absolute;left:91.72px;top:94.14px" class="cls_004"><span class="cls_004">ver: 20190705</span></div>
 <div style="position:absolute;left:91.72px;top:119.35px" class="cls_005"><span class="cls_005">本測驗為網頁基本</span><span class="cls_004">CRUD</span><span class="cls_005">行為</span></div>
@@ -60,7 +59,6 @@ div.cls_007{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:852px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
-<img src="c26f36b4-20d0-11eb-8b25-0cc47a792c0a_id_c26f36b4-20d0-11eb-8b25-0cc47a792c0a_files/background2.jpg" width=595 height=842></div>
 <div style="position:absolute;left:79.72px;top:43.11px" class="cls_002"><span class="cls_002">進階要求</span></div>
 <div style="position:absolute;left:79.72px;top:83.93px" class="cls_005"><span class="cls_005">以下需求</span><span class="cls_004"> </span><span class="cls_007">依個人能力</span><span class="cls_004"> </span><span class="cls_005">選擇項目完成</span></div>
 <div style="position:absolute;left:83.02px;top:107.95px" class="cls_004"><span class="cls_004">11. </span><span class="cls_005">使用</span><span class="cls_004">PHP Framework</span></div>
