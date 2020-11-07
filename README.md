@@ -17,7 +17,6 @@ span.cls_007{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weigh
 div.cls_007{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
 -->
 </style>
-<script type="text/javascript" src="c26f36b4-20d0-11eb-8b25-0cc47a792c0a_id_c26f36b4-20d0-11eb-8b25-0cc47a792c0a_files/wz_jsgraphics.js"></script>
 </head>
 <body>
 <div style="position:absolute;left:50%;margin-left:-297px;top:0px;width:595px;height:842px;border-style:outset;overflow:hidden">
@@ -25,8 +24,8 @@ div.cls_007{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight
 <div style="position:absolute;left:79.72px;top:52.71px" class="cls_002"><span class="cls_002">上機測驗</span><span class="cls_003">-PHP</span></div>
 <div style="position:absolute;left:91.72px;top:94.14px" class="cls_004"><span class="cls_004">ver: 20190705</span></div>
 <div style="position:absolute;left:91.72px;top:119.35px" class="cls_005"><span class="cls_005">本測驗為網頁基本</span><span class="cls_004">CRUD</span><span class="cls_005">行為</span></div>
-<div style="position:absolute;left:91.72px;top:133.76px" class="cls_005"><span class="cls_005">依個人能力完成測試項目</span><span class="cls_006">，</span><span class="cls_005">可用套件</span><span class="cls_006">，</span><span class="cls_005">可上網查資料</span></div>
-<div style="position:absolute;left:79.72px;top:162.55px" class="cls_002"><span class="cls_002">開發環境</span></div>
+<div style="position:absolute;left:91.72px;top:133.76px" class="cls_005"><span class="cls_005" style="color:red">依個人能力完成測試項目</span><span class="cls_006">，</span><span class="cls_005">可用套件</span><span class="cls_006">，</span><span class="cls_005">可上網查資料</span></div>
+<div style="position:absolute;left:79.72px;top:162.55px" class="cls_002"><span class="cls_002">開發環境:WAMP</span></div>
 <div style="position:absolute;left:79.72px;top:202.78px" class="cls_005"><span class="cls_005">建議開發環境</span></div>
 <div style="position:absolute;left:98.93px;top:226.79px" class="cls_004"><span class="cls_004">LNMP, LAMP, XAMPP</span></div>
 <div style="position:absolute;left:98.93px;top:243.60px" class="cls_005"><span class="cls_005">測驗範圍</span><span class="cls_006">：</span><span class="cls_004">MySQL</span><span class="cls_005">資料表建立、</span><span class="cls_004">HTML</span><span class="cls_005">、</span><span class="cls_004">Javascript</span><span class="cls_005">、</span><span class="cls_004">PHP</span><span class="cls_005">、物件導向</span></div>
@@ -78,13 +77,6 @@ div.cls_007{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight
 <div style="position:absolute;left:83.02px;top:333.63px" class="cls_004"><span class="cls_004">19. </span><span class="cls_005">匯出資料</span><span class="cls_004">(text or excel)</span></div>
 <div style="position:absolute;left:83.02px;top:350.44px" class="cls_004"><span class="cls_004">20. </span><span class="cls_005">匯入資料</span><span class="cls_004">(</span><span class="cls_005">批次新增</span><span class="cls_004"> or </span><span class="cls_005">批次修改</span><span class="cls_004">)</span></div>
 <div style="position:absolute;left:91.72px;top:375.05px" class="cls_005"><span class="cls_005">進階要求共</span><span class="cls_004">10</span><span class="cls_005">題</span></div>
-<div style="position:absolute;left:79.72px;top:403.84px" class="cls_002"><span class="cls_002">上機測驗碼繳交方式</span></div>
-<div style="position:absolute;left:98.93px;top:444.07px" class="cls_005"><span class="cls_005">說明用到的</span><span class="cls_002">環境</span><span class="cls_005">、</span><span class="cls_002">套件名稱</span></div>
-<div style="position:absolute;left:98.93px;top:460.88px" class="cls_005"><span class="cls_005">開發程式碼可用</span><span class="cls_004">Github</span><span class="cls_005">、網路硬碟分享方式繳交</span></div>
-<div style="position:absolute;left:98.93px;top:477.69px" class="cls_005"><span class="cls_005">需附用到的資料庫匯入檔</span><span class="cls_004">(.sql)</span></div>
-<div style="position:absolute;left:98.93px;top:494.49px" class="cls_005"><span class="cls_005">必需說明如何將上二者還原至可執行的過程步驟</span></div>
-<div style="position:absolute;left:91.72px;top:519.10px" class="cls_005"><span class="cls_005">面試官如無法還原您的程式</span><span class="cls_006">，</span><span class="cls_005">視為未繳交</span></div>
-</div>
 
 </body>
 </html>
