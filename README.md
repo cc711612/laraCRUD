@@ -1,22 +1,6 @@
 
 <html>
 <head><meta http-equiv=Content-Type content="text/html; charset=UTF-8">
-<style type="text/css">
-<!--
-span.cls_002{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
-div.cls_002{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
-span.cls_003{font-family:"Segoe UI Semibold",serif;font-size:19.3px;color:rgb(0,0,0);font-weight:bold;font-style:normal;text-decoration: none}
-div.cls_003{font-family:"Segoe UI Semibold",serif;font-size:19.3px;color:rgb(0,0,0);font-weight:bold;font-style:normal;text-decoration: none}
-span.cls_004{font-family:"Segoe UI",serif;font-size:9.7px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
-div.cls_004{font-family:"Segoe UI",serif;font-size:9.7px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
-span.cls_005{font-family:Arial,serif;font-size:9.7px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
-div.cls_005{font-family:Arial,serif;font-size:9.7px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
-span.cls_006{font-family:"MingLiU",serif;font-size:9.7px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
-div.cls_006{font-family:"MingLiU",serif;font-size:9.7px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
-span.cls_007{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: underline}
-div.cls_007{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
--->
-</style>
 </head>
 <body>
 <div style="position:absolute;left:50%;margin-left:-297px;top:0px;width:595px;height:842px;border-style:outset;overflow:hidden">
@@ -26,8 +10,8 @@ div.cls_007{font-family:Arial,serif;font-size:8.1px;color:rgb(0,0,0);font-weight
 <div style="position:absolute;left:91.72px;top:119.35px" class="cls_005"><span class="cls_005">本測驗為網頁基本</span><span class="cls_004">CRUD</span><span class="cls_005">行為</span></div>
 <div style="position:absolute;left:91.72px;top:133.76px" class="cls_005"><span class="cls_005" style="color:red">依個人能力完成測試項目</span><span class="cls_006">，</span><span class="cls_005">可用套件</span><span class="cls_006">，</span><span class="cls_005">可上網查資料</span></div>
 <div style="position:absolute;left:79.72px;top:162.55px" class="cls_002"><span class="cls_002">開發環境:WAMP</span></div>
-<div style="position:absolute;left:79.72px;top:202.78px" class="cls_005"><span class="cls_005">建議開發環境</span></div>
-<div style="position:absolute;left:98.93px;top:226.79px" class="cls_004"><span class="cls_004">LNMP, LAMP, XAMPP</span></div>
+<div style="position:absolute;left:79.72px;top:202.78px" class="cls_005"><span class="cls_005">使用框架為:LARAVEL</span></div>
+<div style="position:absolute;left:79.72px;top:202.78px" class="cls_005"><span class="cls_005">.sql於/resources/crud.sql</span></div>
 <div style="position:absolute;left:98.93px;top:243.60px" class="cls_005"><span class="cls_005">測驗範圍</span><span class="cls_006">：</span><span class="cls_004">MySQL</span><span class="cls_005">資料表建立、</span><span class="cls_004">HTML</span><span class="cls_005">、</span><span class="cls_004">Javascript</span><span class="cls_005">、</span><span class="cls_004">PHP</span><span class="cls_005">、物件導向</span></div>
 <div style="position:absolute;left:79.72px;top:271.79px" class="cls_002"><span class="cls_002">基本要求</span></div>
 <div style="position:absolute;left:88.42px;top:312.63px" class="cls_004"><span class="cls_004">1. </span><span class="cls_005">請建構一個</span><span class="cls_004"> </span><span class="cls_005">帳號新增</span><span class="cls_004"> </span><span class="cls_005">的基本</span><span class="cls_004">CRUD</span><span class="cls_005">表單</span><span class="cls_006">，</span><span class="cls_005">欄位有</span><span class="cls_006">：</span></div>
